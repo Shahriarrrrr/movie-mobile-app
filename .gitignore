@@ -39,5 +39,6 @@ yarn-error.*
 app-example
 
 
-#env
-.env/
+# Ignore environment variable files
+.env
+.env.*
